@@ -1,3 +1,10 @@
 __pycache__/
 yolo/data/raw/
 yolo11n.pt
+*.stackdump
+
+# YOLO 以外 (電装の資料・買い物リスト・部品資料) はこのリポジトリで管理しない
+/denso_docs/
+/items.md
+/517550cac2f18efd7c5a0577db81686e/
+/*.pdf
